@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\pro\sidebar\sidebar\bin\Debug\sidebar.exe.config
+C:\Users\admin\Desktop\pro\sidebar\sidebar\bin\Debug\sidebar.exe
+C:\Users\admin\Desktop\pro\sidebar\sidebar\bin\Debug\sidebar.pdb
+C:\Users\admin\Desktop\pro\sidebar\sidebar\obj\Debug\sidebar.Form1.resources
+C:\Users\admin\Desktop\pro\sidebar\sidebar\obj\Debug\sidebar.Properties.Resources.resources
+C:\Users\admin\Desktop\pro\sidebar\sidebar\obj\Debug\sidebar.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\pro\sidebar\sidebar\obj\Debug\sidebar.exe
+C:\Users\admin\Desktop\pro\sidebar\sidebar\obj\Debug\sidebar.pdb
+C:\Users\admin\Desktop\pro\sidebar\sidebar\obj\Debug\sidebar.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\LibraryBarcodeSystem\sidebar\sidebar\bin\Debug\sidebar.exe.config
+C:\Users\DELL\Desktop\LibraryBarcodeSystem\sidebar\sidebar\obj\Debug\sidebar.exe
+C:\Users\DELL\Desktop\LibraryBarcodeSystem\sidebar\sidebar\obj\Debug\sidebar.pdb
